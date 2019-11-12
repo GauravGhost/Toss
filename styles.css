@@ -9,6 +9,11 @@
   display: inline-block;
 
 }
+.btn {
+ margin-left: 46%;
+ margin-top: 10px;
+ text-align: center;
+}
 
 body {
   background-color: #393E46;
